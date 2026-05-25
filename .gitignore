@@ -2,7 +2,8 @@
 # CONFIGURAÇÕES SENSÍVEIS
 # =========================
 .env
-
+database/
+config/
 # =========================
 # LOGS E TEMPORÁRIOS
 # =========================
