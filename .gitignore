@@ -2,13 +2,6 @@
 # CONFIGURAÇÕES SENSÍVEIS
 # =========================
 .env
-config/init.php
-database/database.php
-
-# =========================
-# BANCO DE DADOS
-# =========================
-eestoque.sql
 
 # =========================
 # LOGS E TEMPORÁRIOS

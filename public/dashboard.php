@@ -229,7 +229,7 @@ new Chart(ctx, {
 
          <div class="col-md-3 mb-3">
             <div class="card shadow text-center p-3">
-                <h5>Usuario</h5>
+                <h5>Usuário</h5>
                 <h2><?= $totalUsuario ?></h2>
             </div>
         </div>
